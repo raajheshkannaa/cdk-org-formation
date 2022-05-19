@@ -11,7 +11,9 @@ Some of the common tasks we could
 * Manage Service Control Policies for OUs/Accounts
 * Manage Account Contacts, IAM Aliases, etc..
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8cARqxV1Iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Manage AWS Organizations as Code](https://img.youtube.com/vi/Q8cARqxV1Iw/0.jpg)](https://www.youtube.com/watch?v=Q8cARqxV1Iw)
+
 
 ## Usage
 This is a CDK Project, which means you need to have CDK installed on your local system with `npm i -g aws-cdk`
